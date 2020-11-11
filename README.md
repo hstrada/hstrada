@@ -10,7 +10,7 @@ In my free time I like to play videogames (🎮), going to the movies (🎞️) 
 
 💬 You can find me at:
   ```
-  - [medium](https://medium.com/@h.strada)
+  - [medium](https://hstrada.medium.com/)
   - [dev.to](https://dev.to/hstrada)
   - [behance](https://www.behance.net/helenastrada)
   - [linkedin](https://www.linkedin.com/in/helenastrada)
