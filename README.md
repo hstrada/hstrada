@@ -4,7 +4,7 @@ My name is Helena and I work as a Software Engineer with main interests in Softw
 
 > focus and persistence
 
-In my free time I like to play videogames (🎮), going to the movies (🎞️) or watch some series at home (📺), to read books (📚) and to listen to music (🎵).
+In my free time I like playing videogames (🎮), going to the movies (🎞️) or watch some series at home (📺), reading books (📚) and listening to music (🎵).
 
 > share knowledge
 
