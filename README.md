@@ -6,7 +6,7 @@ My name is Helena and I work as a Software Engineer. Passionate about books and 
 
 💬 You can find me at:
   
+  - [site](https://hstrada.vercel.app)
   - [medium](https://hstrada.medium.com/)
-  - [dev.to](https://dev.to/hstrada)
   - [behance](https://www.behance.net/helenastrada)
   - [linkedin](https://www.linkedin.com/in/helenastrada)
