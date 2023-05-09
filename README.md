@@ -6,7 +6,7 @@
 
 ### What I believe 🚀
 
-⏳ Focus, Persistence and Consistency
+⏳ Focus, Persistence and Consistency.
 
 ### You can find me at 💬
   
