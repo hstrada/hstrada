@@ -1,6 +1,6 @@
 ### Hello ⚡
 
-💻 Software Engineer @ BackEnd.
+💻 Software Engineer
 
 📚 Passionate about books and technology - mainly, both together.
 
