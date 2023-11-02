@@ -11,7 +11,7 @@
 **You can find me at** 💬
   
   - [site](https://hstrada.vercel.app)
-  - [blog](https://hstrada.vercel.app/blog)
+  - [blog](https://hstrada.github.io/blog)
   - [medium](https://hstrada.medium.com/)
   - [behance](https://www.behance.net/helenastrada)
   - [linkedin](https://www.linkedin.com/in/helenastrada)
